@@ -87,4 +87,4 @@ corona['nucleocapsid_phosphoprotein'] = translate(cc[28274-1:29533], True)
 # might be called the internal protein (Coronavirus Pathogenesis)
 corona['orf10'] = translate(cc[29558-1:29674], True)
 
-# file was changed
+# file was changed by amol
